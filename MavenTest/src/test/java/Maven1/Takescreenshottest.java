@@ -32,7 +32,9 @@ public class Takescreenshottest{
        // Copy screenshot file to the given location
 
        System.out.println("Screenshot printed"); 
-       System.out.println("Suuccess printed"); 
+       System.out.println("Success printed");
+       System.out.println("Success printing"); 
+
 
        // Print message in console after screenshot saved
 		
